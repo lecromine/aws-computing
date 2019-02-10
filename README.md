@@ -1,7 +1,3 @@
 # aws-computing
 
-[Source](http://ec2-54-210-186-195.compute-1.amazonaws.com/)
-
-- - - -
-
-[Exercise 2](week_ex2.md)
+[Load balancer exercise 3.1](my-aws-1573492935.us-east-1.elb.amazonaws.com)
